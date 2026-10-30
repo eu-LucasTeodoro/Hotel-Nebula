@@ -1,0 +1,54 @@
+[{
+  "_id": 1,
+  "nome": "Juliana Martins",
+  "cargo": "Recepcionista",
+  "departamento": "Recepção",
+  "email": "juliana.martins@hotelnebula.com",
+  "telefone": "+55 21 99123-4567",
+  "ativo": true
+},
+{
+  "_id": 2,
+  "nome": "Rafael Nunes",
+  "cargo": "Recepcionista",
+  "departamento": "Recepção",
+  "email": "rafael.nunes@hotelnebula.com",
+  "telefone": "+55 21 99222-1111",
+  "ativo": true
+},
+{
+  "_id": 3,
+  "nome": "Ana Prado",
+  "cargo": "Supervisora",
+  "departamento": "Operações",
+  "email": "ana.prado@hotelnebula.com",
+  "telefone": "+55 21 99333-2222",
+  "ativo": true
+},
+{
+  "_id": 4,
+  "nome": "Thiago Vector",
+  "cargo": "Concierge",
+  "departamento": "Hospitalidade",
+  "email": "thiago.vector@hotelnebula.com",
+  "telefone": "+55 21 99444-3333",
+  "ativo": true
+},
+{
+  "_id": 5,
+  "nome": "Renata Cosmos",
+  "cargo": "Coordenadora de Eventos",
+  "departamento": "Eventos",
+  "email": "renata.cosmos@hotelnebula.com",
+  "telefone": "+55 21 99555-4444",
+  "ativo": true
+},
+{
+  "_id": 6,
+  "nome": "Lucas Kernel",
+  "cargo": "Analista de TI",
+  "departamento": "Tecnologia",
+  "email": "lucas.kernel@hotelnebula.com",
+  "telefone": "+55 21 99666-5555",
+  "ativo": true
+}]
